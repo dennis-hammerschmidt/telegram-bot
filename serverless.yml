@@ -1,0 +1,14 @@
+service: ml-bot
+provider:
+  name: aws
+  region: eu-central-1
+  runtime: python3.7
+  
+  environment:
+    TELEGRAM_TOKEN: ${env:TELEGRAM_TOKEN}
+
+functions:
+  cron:
+    handler: handler.send_photo
+    events:
+      - schedule: cron(00 06,18 * * ? *)
