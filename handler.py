@@ -12,7 +12,7 @@ CHAT_ID = <ADD_YOUR_CHAT_ID>
 
 def send_photo(event, context):
     bot = telegram.Bot(token=TOKEN)
-    photo_url = '<PATH_TO_IMAGES>/'
+    photo_url = 'flashcards_folder/'
     rand_photo = random.choice(os.listdir(photo_url))
     with open(os.path.join(photo_url, rand_photo), 'rb') as file:
         bot.sendPhoto(chat_id = CHAT_ID, photo = file)
