@@ -1,9 +1,9 @@
 # 🤖 Telegram Bot
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-[![overviewR
-badge](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=Telegram)](https://github.com/dennis-hammerschmidt/telegram-bot)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![AWS](https://img.shields.io/badge/Project-Build%20with%20♥-blue?style=for-the-badge&logo=Python)](https://github.com/dennis-hammerschmidt/telegram-bot)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=Telegram)](https://github.com/dennis-hammerschmidt/telegram-bot)
+[![AWS](https://img.shields.io/badge/Build%20with-AWS%20Lambda-important?style=for-the-badge&logo=Amazon-AWS)](https://github.com/dennis-hammerschmidt/telegram-bot)
+[![Serverless](https://img.shields.io/badge/Serverless-Powered-red?style=for-the-badge&logo=Serverless)](https://github.com/dennis-hammerschmidt/telegram-bot)
 
 ## 📬 Purpose
 
